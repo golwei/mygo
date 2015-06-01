@@ -1,8 +1,6 @@
 package mathtest
-import(
- "fmt"
- "math"
-)
+import "fmt"
+
 func functest(){
 fmt.Printf("hi~")
 }
